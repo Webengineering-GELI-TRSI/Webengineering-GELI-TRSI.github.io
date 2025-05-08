@@ -8,11 +8,11 @@ Ausgefüllte Links auf HTML und CSS Validatoren, so dass die Analyse per Click g
 - W3C: CSS - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwebengineering-geli-trsi.github.io%2F%23&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=de
 - Ecograder: https://ecograder.com/report/16Dyr8hve9OPSU7abgIWulzJ
 
-![image-20250508103018382](/home/str/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20250508103018382.png)
+![image-20250508103018382](score.png)
 
 ### Projektübersicht:
 
-In diesem Projekt geht es darum HTML, CSS und Javascript, sowie ein allgemeines Wissen über Webengineering aufzubauen. In unserem Fall soll ein Tool zum Webseiten evauliert werden. 
+In diesem Projekt geht es darum HTML, CSS und Javascript, sowie ein allgemeines Wissen über Webengineering aufzubauen. In unserem Fall soll ein Tool zum Webseiten evauliert werden.
 
 #### Variantenentscheid (SSG)
 
