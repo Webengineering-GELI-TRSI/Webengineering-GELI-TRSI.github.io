@@ -1,4 +1,6 @@
-# StaticSiteGenerator (SSG)
+---
+title: "Static Site Generator"
+---
 
 Variantenentscheid für die zu benutzende SSG-Variante:
 
@@ -15,4 +17,4 @@ Variantenentscheid für die zu benutzende SSG-Variante:
 | **Unterstützung für Markdown**      | 5%             | 5                        | 0.25                        | 5                            | 0.25                            | 5                          | 0.25                          | 5                          | 0.25                          |
 | **Gesamtbewertung**                 | 100%           |                          | **4.85**                    |                              | **4.90**                        |                            | **4.60**                      |                            | **4.30**                      |
 
-##### In unserem Fall wird schlussendlich aber nicht Eleventy genommen, sondern der 2. Platzierte HUGO, da wir nur in HUGO bereits Know-How besitzen und wird zeitlich etwas begrenzt sind. 
+##### In unserem Fall wird schlussendlich aber nicht Eleventy genommen, sondern der 2. Platzierte HUGO, da wir nur in HUGO bereits Know-How besitzen und wird zeitlich etwas begrenzt sind.
