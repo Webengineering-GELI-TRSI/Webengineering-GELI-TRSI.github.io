@@ -12,3 +12,8 @@ body {
     font-family: system-ui, sans-serif;
     margin: 0;
 }
+
+#container {
+  width: 40vw;
+  height: 40vh;
+}
