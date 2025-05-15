@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://webengineering-geli-trsi-github-io.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Webengineering-Projekt by GELI and TRSI'
 copyright = '© 2025-{year} Alle rechte vorbehalten.'
