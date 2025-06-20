@@ -14,6 +14,23 @@ Ausgefüllte Links auf HTML und CSS Validatoren, so dass die Analyse per Click g
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwebengineering-geli-trsi-github-io.pages.dev%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - [Ecograder](https://ecograder.com/report/RwOFXJnHVidxaAG2t7BxHGTh)
 
-![Ecograder-Image](/ecograde_result.png)
+### Ecograder Resultat:
+
+![image-Ecograde-Result](/home/str/GIT/Webengineering-GELI-TRSI.github.io/content/Bilder/ecogreader-result.png)
 
 
+
+#### Kurze Projektübersicht:
+
+1. Erstellung einer einfachen HTML-Grundstruktur und ein CSS-Layout, das barrierefrei ist.
+2. Gestalte ein ansprechendes Layout, das Selektoren, Einheiten, Farben, Schriften und Flex/Grid beinhaltet.
+3. Es wurden geeignete Meta-Tags gesetzt.
+4. Es wurde der Static Site Generator: Hugo implementiert, der aus Markdown-Files eine Webseite rendert.
+5. Danach wurde die Webseite auf Cloudflare deployed, sodass direkt aus dem GIT deployed werden kann.
+6. Zum Abschluss wurde der HTML und CSS Code validiert und die Webpage durch den Ecograder bewertet. 
+
+
+
+Im Post **StaticSiteGenerator.md** wird unsere SSG-Lösung vorgestellt und gezeigt, anhand welchen Kriterien "HUGO" gewählt wurde.
+
+Im Post **Deployment.md** wird erläutert, wie das Deployment gemacht wurde und wieso Cloudflare gewählt wurde.
