@@ -1,6 +1,8 @@
 ---
-title: "Static Site Generator"
+title: "Evaluation vom Static Site Generator"
 ---
+
+<!--more-->
 
 Variantenentscheid für die zu benutzende SSG-Variante:
 
