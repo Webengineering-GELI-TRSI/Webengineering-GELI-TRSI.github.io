@@ -66,4 +66,4 @@ Hier kam aus Resultat Cloudflare heraus. Der Grund war ganz klar, dass sonst der
 
 
 
-Im Post: Cloudflare_Deployment befindet sich noch eine Anleitung wie man Git bei Cloudflare einbindet und eine Webseite veröffentlicht. 
+Im Post: Deployment befindet sich noch eine Anleitung wie man Git bei Cloudflare einbindet und eine Webseite veröffentlicht. 
