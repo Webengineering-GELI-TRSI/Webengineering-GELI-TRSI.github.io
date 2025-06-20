@@ -63,3 +63,7 @@ Wir haben beide Varianten getestet, und bei beiden ist die Implementation mit Gi
 
 
 Hier kam aus Resultat Cloudflare heraus. Der Grund war ganz klar, dass sonst der Ecograde-Score unter 80 liegen würde. Und da dies eine Anforderung ist, muss es zwingen eingehalten werden. Technisch gesehen, hätte Github Pages locker mithalten können. 
+
+
+
+Im Post: Cloudflare_Deployment befindet sich noch eine Anleitung wie man Git bei Cloudflare einbindet und eine Webseite veröffentlicht. 
