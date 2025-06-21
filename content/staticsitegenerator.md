@@ -40,23 +40,23 @@ Quelle: https://jamstack.org/generators/
 
 **Markdown-Rendering:**
 
-- Next.js: Möglich, es muss aber die **remark** Libary installiert werden. Quelle: https://nextjs.org/learn/pages-router/dynamic-routes-render-markdown
-- Hugo: Ja: https://gohugo.io/content-management/formats/
-- Docusarurus: Ja https://docusaurus.io/docs/markdown-features
+- Next.js: Möglich, es muss aber die **remark** Libary installiert werden. [Quelle](https://nextjs.org/learn/pages-router/dynamic-routes-render-markdown)
+- Hugo: Ja: [Quelle](https://gohugo.io/content-management/formats/)
+- Docusarurus: Ja [Quelle](https://docusaurus.io/docs/markdown-features)
 
 
 
 **Implementation Meta-Tags:**
 
-- Next.js: Ja mit der Metadata API: https://nextjs.org/docs/app/getting-started/metadata-and-og-images
-- Hugo: ja ist möglich: https://discourse.gohugo.io/t/meta-description-attribute/3922
-- Docusaurus: Ja https://docusaurus.io/docs/seo
+- Next.js: Ja mit der Metadata API: [Quelle](https://nextjs.org/docs/app/getting-started/metadata-and-og-images)
+- Hugo: ja ist möglich: [Quelle](https://discourse.gohugo.io/t/meta-description-attribute/3922)
+- Docusaurus: Ja [Quelle](https://docusaurus.io/docs/seo)
 
 **Cloudflare Kompatibilität:**
 
-- Next.js: Ja https://developers.cloudflare.com/pages/framework-guides/nextjs/
-- Hugo: Ja https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/
-- Docusaurus: Ja https://developers.cloudflare.com/pages/framework-guides/deploy-a-docusaurus-site/
+- Next.js: Ja [Quelle](https://developers.cloudflare.com/pages/framework-guides/nextjs/)
+- Hugo: Ja [Quelle](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
+- Docusaurus: Ja [Quelle](https://developers.cloudflare.com/pages/framework-guides/deploy-a-docusaurus-site/)
 
 **Einfachheit:**
 
