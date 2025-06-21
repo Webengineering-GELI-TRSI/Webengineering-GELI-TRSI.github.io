@@ -10,9 +10,9 @@ title: "Deployment"
 
 Da wir in der Schule nur diese zwei angeschaut haben, werden diese zwei auch die einzigen Nutzwertanalyse-Typen sein.
 
-Github-Pages: https://pages.github.com/
+[Github-Pages](https://pages.github.com/)
 
-Cloudflare: https://www.cloudflare.com/
+[Cloudflare](https://www.cloudflare.com/)
 
 In diesem Post geht es um die Wahl des einzusetzenden Hosting-Anbieters für automatische Deployments aus Github.
 
@@ -40,18 +40,18 @@ Nutzwertanalyse: Deployments und Hosting
 Ecograde-Score:
 
 - Pages Github: Rot: Ist Anscheinend nicht mit Grünem Strom betrieben. Keine Infos gefunden
-- Cloudflare: Grün: Ist anscheinend mit erneuerbarem Strom betrieben. https://blog.cloudflare.com/cloudflare-committed-to-building-a-greener-internet/
+- Cloudflare: Grün: Ist anscheinend mit erneuerbarem Strom betrieben. [Quelle](https://blog.cloudflare.com/cloudflare-committed-to-building-a-greener-internet/)
 
 Automatisches Deployment:
 
-- Pages Github: Ja, möglich https://github.com/marketplace/actions/deploy-to-github-pages
+- Pages Github: Ja, möglich. [Quelle](https://github.com/marketplace/actions/deploy-to-github-pages)
 
-- Cloudflare: Ja möglich https://developers.cloudflare.com/pages/configuration/git-integration/
+- Cloudflare: Ja möglich [Quelle](https://developers.cloudflare.com/pages/configuration/git-integration/)
 
 Kompatibilität:
 
-- Pages Github: https://gohugo.io/host-and-deploy/host-on-github-pages/
-- Cloudflare: https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/
+- [Pages Github](https://gohugo.io/host-and-deploy/host-on-github-pages/)
+- [Cloudflare](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 
 Einfachheit:
 
@@ -61,9 +61,8 @@ Wir haben beide Varianten getestet, und bei beiden ist die Implementation mit Gi
 - Cloudflare: Top
 
 
-
-Hier kam aus Resultat Cloudflare heraus. Der Grund war ganz klar, dass sonst der Ecograde-Score unter 80 liegen würde. Und da dies eine Anforderung ist, muss es zwingen eingehalten werden. Technisch gesehen, hätte Github Pages locker mithalten können. 
-
+Hier kam aus Resultat Cloudflare heraus. Der Grund war ganz klar, dass sonst der Ecograde-Score unter 80 liegen würde. Und da dies eine Anforderung ist, muss es zwingen eingehalten werden. Technisch gesehen, hätte Github Pages locker mithalten können.
 
 
-Im Post: Deployment befindet sich noch eine Anleitung wie man Git bei Cloudflare einbindet und eine Webseite veröffentlicht. 
+
+Im Post: Deployment befindet sich noch eine Anleitung wie man Git bei Cloudflare einbindet und eine Webseite veröffentlicht.

@@ -38,7 +38,7 @@ Quelle: https://jamstack.org/generators/
 | Wissen bereits vorhanden. | 3              | 0                           | 0                               | 5                        | 15                          | 0                              | 0                                 |
 | **Total**                 |                |                             | **81**                          |                          | **90**                      |                                | **87**                            |
 
-**Markdown-Rendering:** 
+**Markdown-Rendering:**
 
 - Next.js: Möglich, es muss aber die **remark** Libary installiert werden. Quelle: https://nextjs.org/learn/pages-router/dynamic-routes-render-markdown
 - Hugo: Ja: https://gohugo.io/content-management/formats/
@@ -46,7 +46,7 @@ Quelle: https://jamstack.org/generators/
 
 
 
-**Implementation Meta-Tags:** 
+**Implementation Meta-Tags:**
 
 - Next.js: Ja mit der Metadata API: https://nextjs.org/docs/app/getting-started/metadata-and-og-images
 - Hugo: ja ist möglich: https://discourse.gohugo.io/t/meta-description-attribute/3922
@@ -62,9 +62,9 @@ Quelle: https://jamstack.org/generators/
 
 Pseudo-Kriterium, hier ist es schwierig eine genaue Aussage zu machen, wir können nur alle drei SSG's selbst implementieren und danach eine Aussage treffen. Da wir aber keine Zeit haben, bewerten wir alle als kompliziert ausser Docusaurus
 
-- Next.js: Gemäss Reddit, ist es eher schwierig Next.js zu implementieren, besonders am Anfang. https://www.reddit.com/r/nextjs/comments/1g3hcq1/whats_the_biggest_challenge_you_faced_when/
-- Hugo: https://www.reddit.com/r/gohugo/comments/d8oeh1/totally_frustrated_with_hugo_stymied/
-- Docusaurus: https://docusaurus.io/docs
+- Next.js: Gemäss Reddit, ist es eher schwierig Next.js zu implementieren, besonders am Anfang. [Quelle](https://www.reddit.com/r/nextjs/comments/1g3hcq1/whats_the_biggest_challenge_you_faced_when/)
+- [Hugo](https://www.reddit.com/r/gohugo/comments/d8oeh1/totally_frustrated_with_hugo_stymied/)
+- [Docusaurus](https://docusaurus.io/docs)
 
 **Wissen bereits vorhanden:**
 
