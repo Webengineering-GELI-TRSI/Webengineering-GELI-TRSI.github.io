@@ -4,6 +4,7 @@ title: "Readme"
 
 <!--more-->
 
+
 ## Aufgabenstellung:
 
 Ausgefüllte Links auf HTML und CSS Validatoren, so dass die Analyse per Click gemacht werden kann. Screenshot der Ecograder Analyse. Kurze Übersicht über das Projekt und die Variantenentscheide.
@@ -16,9 +17,7 @@ Ausgefüllte Links auf HTML und CSS Validatoren, so dass die Analyse per Click g
 
 ### Ecograder Resultat:
 
-![image-Ecograde-Result](/home/str/GIT/Webengineering-GELI-TRSI.github.io/content/Bilder/ecogreader-result.png)
-
-
+![image-Ecograde-Result](ecograde_result.png)
 
 #### Kurze Projektübersicht:
 
@@ -27,10 +26,12 @@ Ausgefüllte Links auf HTML und CSS Validatoren, so dass die Analyse per Click g
 3. Es wurden geeignete Meta-Tags gesetzt.
 4. Es wurde der Static Site Generator: Hugo implementiert, der aus Markdown-Files eine Webseite rendert.
 5. Danach wurde die Webseite auf Cloudflare deployed, sodass direkt aus dem GIT deployed werden kann.
-6. Zum Abschluss wurde der HTML und CSS Code validiert und die Webpage durch den Ecograder bewertet. 
+6. Zum Abschluss wurde der HTML und CSS Code validiert und die Webpage durch den Ecograder bewertet.
 
+Im Post **[StaticSiteGenerator](../staticsitegenerator)** wird unsere SSG-Lösung vorgestellt und gezeigt, anhand welchen Kriterien "HUGO" gewählt wurde.
 
+Im Post **[Deployment](../deployment)** wird erläutert, wie das Deployment gemacht wurde und wieso Cloudflare gewählt wurde.
 
-Im Post **StaticSiteGenerator.md** wird unsere SSG-Lösung vorgestellt und gezeigt, anhand welchen Kriterien "HUGO" gewählt wurde.
+### Deploy on Cloudflare
 
-Im Post **Deployment.md** wird erläutert, wie das Deployment gemacht wurde und wieso Cloudflare gewählt wurde.
+[PDF](cloudflare_deployment.pdf)
