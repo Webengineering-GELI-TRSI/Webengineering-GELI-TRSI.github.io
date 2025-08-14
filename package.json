@@ -1,0 +1,29 @@
+{
+  "name": "webengineering-geli-trsi.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webengineering-GELI-TRSI/Webengineering-GELI-TRSI.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webengineering-GELI-TRSI/Webengineering-GELI-TRSI.github.io/issues"
+  },
+  "homepage": "https://github.com/Webengineering-GELI-TRSI/Webengineering-GELI-TRSI.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}

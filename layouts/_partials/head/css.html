@@ -1,9 +1,0 @@
-{{- with resources.Get "css/main.css" }}
-    {{- if hugo.IsDevelopment }}
-        <link href="{{ .RelPermalink }}" rel="stylesheet">
-    {{- else }}
-        {{- with . | minify | fingerprint }}
-            <link href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" rel="stylesheet">
-        {{- end }}
-    {{- end }}
-{{- end }}
